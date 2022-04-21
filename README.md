@@ -1,2 +1,2 @@
 # image-text-search
-Extract text from images in a directory
+Extract text from images in a directory using pytesseract
